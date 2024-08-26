@@ -1,0 +1,15 @@
+export enum valeur {
+    AS,
+    DEUX,
+    TROIS,
+    QUATRES,
+    CINQ,
+    SIX,
+    SEPT,
+    HUIT,
+    NEUF,
+    DIX,
+    ONZE,
+    DOUZE,
+    ROI,
+};
